@@ -1,0 +1,136 @@
+{
+  "navItem1": "Home",
+  "navItem2": "About",
+  "navItem3": "Subscriptions",
+  "navItem4": "Customers",
+  "navItem5": "Contact",
+  "logIn": "Log In",
+
+  "heroIntro": "A project by the GPT4 team",
+  "heroTitle": "Connect your path with MOVEO",
+  "heroSubtitle": "Here you can continue building your path!",
+  "heroButton": "More Information",
+
+  "aboutUsIntro": "About Us",
+  "aboutUsTitle": "The GPT4 team presents: MOVEO",
+  "whoWeAreTitle": "Who we are?",
+  "whoWeAreText": "MOVEO is a university startup dedicated to connecting workers who need reliable transportation with people willing to lend their vehicles safely and affordably.",
+  "missionTitle": "What is our mission?",
+  "missionText": "Our mission is to democratize access to vehicles through a fair and flexible lending model, promoting mobility as a right and an opportunity for thousands of workers.",
+  "subscriptionsTitle": "Subscriptions",
+  "subscriptionsText": "At Moveo, we work with a vehicle subscription model, where users pay for the time they use the car they choose, in a flexible and affordable way.",
+
+  "servicesIntro": "What We Offer",
+  "servicesTitle": "Our Services",
+  "servicesDescription": "At Moveo, we connect people who need to move with available cars near them, offering a flexible, safe, and collaborative way to rent and generate income.",
+
+  "service1Title": "Custom Time Rental",
+  "service1Desc": "Choose how long you need the car: hours, days, or weeks. You only pay for the time you use it.",
+  "service2Title": "Nearby Car Search",
+  "service2Desc": "Find available vehicles in parking lots near your location, ready to be used.",
+  "service3Title": "Nearby Drop-Off and Pick-Up",
+  "service3Desc": "Cars are left in designated parking lots near you for added convenience.",
+  "service4Title": "Passive Income Generation",
+  "service4Desc": "Suppliers can put their cars on the road during their chosen times and earn hassle-free.",
+  "service5Title": "App-Based Management",
+  "service5Desc": "Monitor vehicle status, loan duration, payments, and more, all from a single platform.",
+  "service6Title": "Availability and Recall Control",
+  "service6Desc": "Car owners decide when to borrow and when to retrieve their car. Complete control at all times.",
+
+  "pricingIntro": "Pricing",
+  "pricingTitle": "Pricing & Plans",
+  "pricingDescription": "Signing up for Moveo is completely free. You can search for nearby cars, see prices, and choose the one that best suits your time and needs.",
+
+  "plan1Title": "For car renters",
+  "plan1Price": "$0/month",
+  "plan1Desc": "Free account",
+  "plan1Feature1": "Registration and navigation",
+  "plan1Feature2": "Customized rental time",
+  "plan1Feature3": "Access to nearby cars",
+  "plan1Feature4": "Advanced reservations",
+  "plan1Feature5": "Discounts on recurring rentals",
+  "plan1Feature6": "Priority support",
+  "plan1Feature7": "Preferential access to new vehicles",
+  "plan1Button": "Start Free Trial",
+
+  "plan2Title": "Premium",
+  "plan2Price": "$5/month",
+  "plan2Desc": "Powerful & Awesome Elements",
+
+  "plan3Title": "For vehicle providers",
+  "plan3Price": "$15/month",
+  "plan3Desc": "Most Popular",
+  "plan3Feature1": "No hidden fees: Publishing your vehicle on Moveo is completely free.",
+  "plan3Feature2": "Easy income: For every rental, you earn 20% of the total paid.",
+  "plan3Feature3_1": "Turn availability on or off anytime",
+  "plan3Feature3_2": "Request vehicle recovery when needed",
+  "plan3Feature3_3": "Track your car’s status and manage everything from your profile",
+  "plan3Button": "Start Free Trial",
+
+  "introVideoTitle": "Coming Soon",
+  "introVideoSubtitle": "Watch Our Intro Video",
+  "introVideoDescription": "This section has been placed for videos",
+
+  "teamIntro": "Moveo Team",
+  "teamTitle": "Meet Our Team",
+  "teamDescription": "Presentation of our work team",
+
+  "testimonialsIntro": "Customer Reviews",
+  "testimonialsTitle": "Our Testimonials",
+  "testimonialsDescription": "Some words from our collaborators!",
+
+  "faqIntro": "FAQ",
+  "faqTitle": "Frequently Asked Questions",
+  "faqDescription": "Some of the most frequently asked queries.",
+
+  "faq1Question": "How does Moveo work?",
+  "faq1Answer": "Moveo connects people who need a car to get around with providers willing to lend them for a specific period and in exchange for a fair fee.",
+
+  "faq2Question": "What do I need to request a car?",
+  "faq2Answer": "All you need to do is register in the app, verify your identity, have a valid driver's license, and choose the vehicle that best suits your needs.",
+
+  "faq3Question": "Can I lend my car if I don't use it daily?",
+  "faq3Answer": "Yes! You can offer your car on the days and times you prefer, set your rate, and manage everything from the app.",
+
+  "faq4Question": "What payment methods are accepted?",
+  "faq4Answer": "You can pay directly from the app with a debit or credit card, or digital wallet. The entire process is 100% secure.",
+
+  "faq5Question": "What happens if an accident occurs during the loan?",
+  "faq5Answer": "In the event of an incident, the assistance protocol is activated and both parties are notified. The vehicle insurance covers damages according to its terms, and Moveo provides support throughout the process.",
+
+  "faq6Question": "Are the vehicles insured?",
+  "faq6Answer": "Yes, all cars on Moveo must have active insurance. Additionally, we have security policies to protect both parties.",
+
+  "contactTitle": "Contact Us",
+  "contactDescription": "Do you have questions, suggestions, or want to learn more about how Moveo works? We're here to help. 📩 Write to us and we'll get back to you as soon as possible. Your mobility, our priority.",
+  "contactCallUs": "Call us",
+  "contactEmailUs": "Email us",
+  "contactAddress": "Our Address",
+  "formTitle": "Leave a message here",
+  "formNamePlaceholder": "Name*",
+  "formEmailPlaceholder": "Email*",
+  "formSubjectPlaceholder": "Subject*",
+  "formPhonePlaceholder": "Phone*",
+  "formMessagePlaceholder": "Message*",
+  "formButton": "Send Message",
+
+  "footerSolutions": "Solutions",
+  "footerSolutionsItem1": "Marketing",
+  "footerSolutionsItem2": "Analytics",
+  "footerSolutionsItem3": "Commerce",
+  "footerSolutionsItem4": "Insights",
+
+  "footerSupport": "Support",
+  "footerSupportItem1": "Pricing",
+  "footerSupportItem2": "Documentation",
+  "footerSupportItem3": "Guides",
+  "footerSupportItem4": "API Status",
+
+  "footerSubscribe": "Subscribe",
+  "footerSubscribeDesc": "Do you want to join us?",
+  "footerPlaceholderEmail": "Email address",
+
+  "footerConnectYourPath": "Connect your path",
+  "footerFollowUsOn": "Follow Us On:",
+  "footerRights": "© 2025 Moveo - All Rights Reserved"
+}
